@@ -1,0 +1,1 @@
+Notebooks from https://github.com/franciscoicmc/ciencia-de-dados, with some modifications on the base code (some things that I think that could be programmed bettet), but not everything.
